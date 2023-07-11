@@ -14,6 +14,8 @@ The app is built using a combination of JavaScript, Html and CSS, with a JSON da
 
 Clone the repo: `git clone https://github.com/plcr9/QuizMe.git`
 
+or Quiz Me is deployed at: `https://quiz-me-now.netlify.app/`
+
 ### Start Quiz Me App
 
 Open the index.html file and then right click. Then click on 'Open with Live Server'. You will then be given your selection of 10 questions, selected at random from the JSON database, to test your general knowledge!
